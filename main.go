@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	"Github/constants"
-	"Github/findTokens"
-	"Github/getDirs"
+	"Discord-Token-Grabber/constants"
+	"Discord-Token-Grabber/findTokens"
+	"Discord-Token-Grabber/getDirs"
 )
 
 func main() {
